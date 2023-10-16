@@ -1,0 +1,91 @@
+﻿body {
+
+}
+
+header {
+    display: block;
+    background-color: lightsteelblue;
+    background-size: cover;
+    height: 60px;
+    
+}
+
+#Logo {  margin-top:8px; margin-left:10px; margin-right:650px; }
+
+nav ul li {
+    color: dodgerblue;
+    display: inline;
+    list-style-type: none;
+    line-height: 50px;
+    margin-inline-start: 60px;
+    text-indent: 700px;
+    text-align: left;
+}
+
+nav ul {
+    display: inline;
+   
+}
+
+ a {
+    text-decoration: none;
+    
+}
+a:visited { color:midnightblue;   }
+a:hover{ color: royalblue; }
+
+
+main { 
+
+    display:block;
+    background-color:aliceblue;
+    background-size:cover;
+    height:400px;
+    padding-top:100px;
+
+
+}
+/*
+h2 { text-align:center; margin-top:-70px; color:dodgerblue }
+p {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 50%;
+    float: right;
+    text-indent: -100px;
+    padding-top: 85px;
+    padding-right: 150px;
+    
+}
+
+main img {  left:100px;  }
+*/
+
+.flexcontainer {
+    display: flex;
+    flex-direction: row;
+    scroll-padding-inline-start:40px;
+}
+
+footer {
+    display: block;
+    background-color: lightsteelblue;
+    background-size: cover;
+    height: 100px;
+    
+}
+
+
+    footer h3 {
+        color: midnightblue;
+        text-indent:20px;
+    }
+
+
+
+
+
+
+
+
